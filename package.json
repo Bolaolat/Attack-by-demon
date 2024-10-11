@@ -1,9 +1,9 @@
 {
-  "name": "prmnmd-tuls",
+  "name": "demon-tuls",
   "version": "5.0.1",
   "description": "El Manuk",
   "main": "index.js",
-  "author": "PermenMD",
+  "author": "Demontol",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
